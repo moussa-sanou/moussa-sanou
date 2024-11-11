@@ -3,5 +3,6 @@
 - 🌱 I have a Master's degree in Software Engineering with more than 8 years of experience in the Information Technology (IT) field.
 - 💞️ I am open to a new engineering adventure.
 - 📫 You can contact me by email at moussa.sanou@outlook.com
+- Visit my portfolio here: https://moussa-sanou.github.io/MyPortfolio/#
 
 
